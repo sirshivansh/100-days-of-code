@@ -1,3 +1,4 @@
+
 # 100 Days Of Code - Log
 
 ### Day 1: [28 Sept 2025]
@@ -10,8 +11,10 @@
 
 ### Day 2: [02 Oct 2025]
 
-**Today's Progress**: Completed Prerequisites and Introduction to Git & GitHub in The Odin Project Foundations (29% done).
+**Today's Progress**: Completed the Prerequisites and Introduction to Git & GitHub in The Odin Project Foundations (29% done).
 
 **Thoughts**: Feeling motivated—Git & GitHub basics are clearer now.
 
 **Next Steps**: Start working on HTML section tomorrow.
+
+Day 2 Update
