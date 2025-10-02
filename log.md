@@ -6,4 +6,12 @@
 
 **Thoughts:** Excited to begin #100DaysOfCode. Feels good to have a clear roadmap.  
 
-**Link(s) to work:** Will add, after coding :)
+**Next Steps**: Move on to Prerequisites and Git & GitHub basics.
+
+### Day 2: [02 Oct 2025]
+
+**Today's Progress**: Completed Prerequisites and Introduction to Git & GitHub in The Odin Project Foundations (29% done).
+
+**Thoughts**: Feeling motivated—Git & GitHub basics are clearer now.
+
+**Next Steps**: Start working on HTML section tomorrow.
