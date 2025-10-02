@@ -1,6 +1,6 @@
 # 🚀 100 Days Of Code - Log  
 
-### 🧑‍💻 Author: Sirsh Mishra  
+### 🧑‍💻 Author: Shivansh Mishra  
 
 ---
 
